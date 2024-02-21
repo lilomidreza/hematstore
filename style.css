@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(image/backHemat.jpeg);
+    background-repeat: no-rep;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+.container {
+    background-color: rgba(255, 255, 0, 0.668);
+    width: 100vw;
+    height: 100vh;
+}
+
+.center {
+    text-align: center;
+}
+
+.img-hemat {
+    width: 370px;
+}
+
+.icon-shop {
+    width: 50px;
+}
+
+.name-shop {
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.img-loc {
+    width: 50px;
+}
+
+.tel {
+    font-weight: bold;
+    background: rgb(203, 203, 203);
+    border: 1px rgb(75, 75, 75);
+    border-radius: 20px;
+    display: inline;
+    padding: 0.3%;
+}
